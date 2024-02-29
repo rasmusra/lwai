@@ -24,6 +24,8 @@ Describe the process of using the solution. In what kind situations is the solut
 
 ## Data sources and AI methods
 
+Some curl examples are stored in [curl-examples.sh](/curl-examples.sh)
+
 TODO:
 Where does your data come from? Do you collect it yourself or do you use data collected by someone else?
 If you need to use links, here's an example:
